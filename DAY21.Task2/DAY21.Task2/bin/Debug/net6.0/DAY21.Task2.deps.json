@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DAY21.Task2/1.0.0": {
+        "runtime": {
+          "DAY21.Task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAY21.Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
